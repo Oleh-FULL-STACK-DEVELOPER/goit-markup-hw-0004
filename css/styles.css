@@ -339,9 +339,9 @@ margin-bottom: 8px;
 
 .team-socseti-ul{
 
-display: flex;
-justify-content: center;
-gap: 24px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 
 

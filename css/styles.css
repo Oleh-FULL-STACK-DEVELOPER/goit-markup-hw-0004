@@ -30,6 +30,7 @@ p {
 
 img {
   display: block;
+  max-width: 100%;
 }
 
 .visually-hidden {
@@ -338,7 +339,6 @@ margin-bottom: 8px;
 }
 
 .team-socseti-ul{
-
   display: flex;
   justify-content: center;
   gap: 24px;
@@ -517,7 +517,7 @@ align-items: baseline
   margin-bottom: 16px; 
 }
 
-.team-socseti-ul{
+.footer-socseti-ul{
   gap: 16px;
 }
 
